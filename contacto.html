@@ -11,7 +11,7 @@
   <body>
     
     <header>
-        <nav class="navbar navbar-expand-lg bg-body-tertiary" >
+        <nav class="navbar navbar-expand-lg bg-body-tertiary opacity-50" >
             <div class="container">
                 <a class="navbar-brand" href="index.html">
                     <!-- <img src="img/bootstrap-logo.svg" alt="Logo" width="30" height="24" class="d-inline-block align-text-top"> -->
@@ -30,20 +30,31 @@
                       </li>
                   
                       <li class="nav-item">
-                        <a class="nav-link active  " href="contacto.html">contacto</a>
+                        <a class="nav-link active  " href="contacto.html">Contacto</a>
                       </li>
                   </div>
              </div>
           </nav>
 
     </header>
-    <h1> Contacto</h1>
-    <main>
 
-    </main>
-    <aside>
+    <main class="form-contacto">
+        <section class="container text-center border border-light-subtle rounded-3">   
+          <form action="index.html" class="form-select-lg"> 
+                <label for="">Nombre</label>
+                <input type="text" placeholder="Juan" required><br>
+                <label for="">Email</label>
+                <input type="email" placeholder="Juan@gmail.com" required><br>
+                <label for="">Mensaje</label> 
+                <input  type="text" placeholder="Escribe tu mensaje!" required><br>
+                <button type="submit" class="btn btn-outline-light opacity-75">Enviar</button>
+                <button type="reset" class="btn btn-outline-light opacity-75">Limpiar</button> 
+          </form>
+        </section>
 
-    </aside>
+      </main>
+
+   
 
     <footer class="d-flex justify-content-end align-items-end   fixed-bottom pe-5">
         <p>	&#169; Derechos reservados!</p>
