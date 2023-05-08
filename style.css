@@ -1,0 +1,14 @@
+body{
+   background-image: url(img/3840x2160-black-skin-texture_1539371043.jpg);
+   
+    font-family: sans-serif;
+    
+   
+
+}
+
+.flex-button{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
