@@ -1,5 +1,5 @@
 body{
-   background-image: url(img/3840x2160-black-skin-texture_1539371043.jpg);
+ 
    
     font-family: sans-serif;
     
@@ -15,8 +15,17 @@ body{
 
 .form-contacto{
     height: 80vh;
-    
     display: flex;
     justify-content: center;
     align-items: center;
 }
+
+
+.aside-proyecto{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+}
+
