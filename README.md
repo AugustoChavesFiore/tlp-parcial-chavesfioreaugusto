@@ -1,5 +1,12 @@
-Se inicio el proyecto del portfolio, se crearon las 3 paginas html y se agrego una hoja de estilos para usarla posteriormente.
-los 3 html estan iniciados y enlasados a la hoja de estilo y a bootstrap
-Se fijo una navbar y un footer para los 3 html
+Se inicio un proyecto de Portfolio para el parcial.
+se crearon 3 secciones Inicio, Proyectos y contacto.
 
-En la seccion de inicio se agrego un parrafo de bienvenida con 2 botenes que llevan a otras paginas.
+En el inicio:
+La main es una corta descripcion con botenes que llevan al contacto y a proyectos.
+
+En proyectos: podemos ver una seccion principal con una descripcion de los estudios y conocimientos. 
+luego se ve un aside con una muestra de algunos proyectos.
+cuando nos pasamos a tamaño mobile el aside se posiciona al final debajo del contenido principal
+
+En Contactos: Hay un formulario para escribir un mensaje y un aside con redes sociales.
+cuando nos pasamos a tamaño mobile el aside se posiciona al final debajo del contenido principal
