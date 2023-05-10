@@ -9,4 +9,4 @@ luego se ve un aside con una muestra de algunos proyectos.
 cuando nos pasamos a tamaño mobile el aside se posiciona al final debajo del contenido principal
 
 En Contactos: Hay un formulario para escribir un mensaje y un aside con redes sociales.
-cuando nos pasamos a tamaño mobile el aside se posiciona al final debajo del contenido principal
+cuando nos pasamos a tamaño mobile el aside se posiciona al final debajo del contenido principal.
